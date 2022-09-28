@@ -20,8 +20,9 @@
         <version>3.8.0</version>
         <configuration>
           <properties>
-             <sonar.organization>altaconexao</sonar.organization>
-             <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+             <sonar.organization>Altaconexao</sonar.organization>
+             <sonar.host.url>http://localhost:9000</sonar.host.url>
+             <sonar.login=fb436167575b7a93a50f1696812f5d93ac9e25ad>
            </properties>
           <source>1.8</source>
           <target>1.8</target>
